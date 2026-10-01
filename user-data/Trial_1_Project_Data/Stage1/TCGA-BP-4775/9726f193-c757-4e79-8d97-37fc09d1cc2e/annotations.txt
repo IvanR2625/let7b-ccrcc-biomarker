@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0efd1bed-227d-5a12-8da1-8cb0dc1e5d0e	11808	case	c22d25c2-b836-4b91-8f4f-2062be002232	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy DLBCL of the stomach. No systemic chemotherapy or radiation.

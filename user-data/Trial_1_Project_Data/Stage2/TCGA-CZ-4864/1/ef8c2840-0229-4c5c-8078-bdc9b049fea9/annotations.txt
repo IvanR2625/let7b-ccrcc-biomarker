@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+bd10c85e-8419-5bb8-a5b1-f224a273ed32	22378	case	7fc6b44d-ae66-409c-98e1-c1a518c33e95	Case submitted is found to be a recurrence after submission	Notification	2014-09-26T00:00:00	Approved	Patient diagnosed with RCC 3 years prior to procurement of the TCGA specimen and had prior treatment (cryoablation). The TSS did confirm the TCGA tumor was a recurrence.

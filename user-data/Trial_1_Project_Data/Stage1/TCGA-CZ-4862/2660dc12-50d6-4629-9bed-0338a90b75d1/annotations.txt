@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+03a9a931-5f1a-500d-97c8-0bf4b1c78fb1	11843	case	b10eb61b-50b8-4df5-8c46-386a1b58c6a6	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy B-cell non-Hodgkins lymphoma of the forehead treated with locoregional radiation.
+dadff2e1-df45-547c-a471-741104864aa0	12088	case	b10eb61b-50b8-4df5-8c46-386a1b58c6a6	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy B-cell non-Hodgkins lymphoma of the forehead treated with locoregional radiation.

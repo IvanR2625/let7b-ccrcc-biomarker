@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+35813765-183f-5e51-bb8d-93c2e0c22752	11817	case	54c9850c-9b67-42ea-a04b-16a88f786dfa	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy melanoma of the chest wall. No systemic chemotherapy or radiation.

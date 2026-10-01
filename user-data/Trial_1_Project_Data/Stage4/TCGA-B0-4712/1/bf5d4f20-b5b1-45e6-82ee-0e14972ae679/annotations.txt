@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0fbb31fb-3374-5b3a-a4c9-74aec9d3da6b	12020	case	3f72d63f-ad48-4500-baf6-897b1d6dda7d	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy prostate cancer treated with  radiation.
+9a34f130-ee0b-5b3d-99d6-f5a0771fb82a	11793	case	3f72d63f-ad48-4500-baf6-897b1d6dda7d	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy prostate cancer treated with  radiation.

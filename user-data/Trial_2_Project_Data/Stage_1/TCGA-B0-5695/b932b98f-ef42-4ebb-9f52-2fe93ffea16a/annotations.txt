@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+006c74de-c9cf-5d16-904a-e7f395bb1f8a	12023	case	fb9bafa5-7133-4955-8156-4eb6763dc8e1	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous chronic lymphocyctic leukemia.

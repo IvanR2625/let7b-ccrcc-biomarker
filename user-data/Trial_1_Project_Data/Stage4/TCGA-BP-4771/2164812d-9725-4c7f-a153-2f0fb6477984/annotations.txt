@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+cc215d13-7851-503b-9c0a-487ba739383c	28363	case	31201e73-a922-4acd-b859-fa2f9ba0af93	Neoadjuvant therapy	Notification	2015-05-18T00:00:00	Approved	Per the TSS, the patient had prior chemotherapy (but no additional info given). Also the patient had radiation (external beam) 2 months prior to the TCGA cancer procurement.

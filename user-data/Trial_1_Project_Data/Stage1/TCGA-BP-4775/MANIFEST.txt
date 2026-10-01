@@ -1,0 +1,3 @@
+id	filename	md5	size	state
+9726f193-c757-4e79-8d97-37fc09d1cc2e	9726f193-c757-4e79-8d97-37fc09d1cc2e/2c5a6644-a32d-490d-8ca1-8950a3e5ac9a.mirbase21.mirnas.quantification.txt	ade9b23adc71540c4fd98ef453169896	50100	validated
+\N	9726f193-c757-4e79-8d97-37fc09d1cc2e/annotations.txt	ca1911b7c672d394cfb91cbe21ddb38a	313	\N

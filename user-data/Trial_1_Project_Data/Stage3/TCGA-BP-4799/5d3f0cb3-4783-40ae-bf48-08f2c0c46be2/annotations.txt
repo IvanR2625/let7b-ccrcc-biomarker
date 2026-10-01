@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+85dd115e-6785-531d-947e-8c7c290bc843	12043	case	e719b7f3-27c4-4017-9d34-a660776c2cd7	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous follicular lymphoma.

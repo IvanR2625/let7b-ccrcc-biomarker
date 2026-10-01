@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0f154c63-5a8c-5ec6-9655-70c7e1090b08	12036	case	c0e26587-3191-4396-a20b-da9e7de213f4	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  bladder cancer treated w/cisplatin, 5-FU, and radiation.
+2397728f-6a37-56d6-8252-7760fc203829	1083	case	c0e26587-3191-4396-a20b-da9e7de213f4	Prior malignancy	Notification	2010-12-19T00:00:00	Approved	[intgen.org]: Prior Malignancy

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+07dba3d7-06b6-54e7-9b97-8a3057a5a1ef	12039	case	d9208e7b-0b47-43ff-a4e8-d4e591e286c4	Neoadjuvant therapy	Notification	2012-11-10T00:00:00	Approved	Patient received neo-adjuvant gefinitib and sunitinib for tumor submitted to TCGA.
+e3bb096c-6d7c-5241-936d-b78133386e42	1086	case	d9208e7b-0b47-43ff-a4e8-d4e591e286c4	Neoadjuvant therapy	Notification	2010-12-19T00:00:00	Approved	[intgen.org]: Subject Positive for Neo-Adjuvant Therapy

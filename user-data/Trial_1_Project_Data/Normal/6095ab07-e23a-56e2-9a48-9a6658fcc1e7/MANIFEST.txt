@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+36104c0e-cb26-4ea3-a471-5a15e8fab0eb	36104c0e-cb26-4ea3-a471-5a15e8fab0eb/7e9cf8e5-e9d5-41e6-9c68-95422274e40e.mirbase21.mirnas.quantification.txt	85e8dda485154878d133d893185ccc0a	50055	validated

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or its findings, please cite the paper below."
+title: "let7b-ccrcc-biomarker: Prognostic potential of let-7 microRNA in clear cell renal cancer"
+type: software
+authors:
+  - family-names: Raizada
+    given-names: Ivan
+  - family-names: Raizada
+    given-names: Sanchit
+  - family-names: Cai
+    given-names: Linfeng
+repository-code: "https://github.com/IvanR2625/let7b-ccrcc-biomarker"
+license: MIT
+keywords:
+  - let-7
+  - microRNA
+  - clear cell renal cell carcinoma
+  - biomarker
+  - TCGA-KIRC
+  - support vector machine
+preferred-citation:
+  type: article
+  title: "Exploring the Prognostic Potential of Let-7 MicroRNA in Clear Cell Renal Cancer"
+  authors:
+    - family-names: Raizada
+      given-names: Sanchit
+    - family-names: Raizada
+      given-names: Ivan
+    - family-names: Cai
+      given-names: Linfeng
+  journal: "Journal of Emerging Investigators"
+  year: 2026
+  notes: "Update volume, pages and DOI after publication."

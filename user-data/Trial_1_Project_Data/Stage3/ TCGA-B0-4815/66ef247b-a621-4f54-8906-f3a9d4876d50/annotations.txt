@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1535f604-f4ca-514a-b29e-b14f96ab9d6a	11794	case	ff127be4-631a-4e0e-a971-842f9eb6760e	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy of the pituitary gland. No systemic chemotherapy or radiation.

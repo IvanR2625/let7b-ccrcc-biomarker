@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+6f7ed976-337a-5151-8676-ff716bf72f33	1034	case	d62d39f9-c896-4758-a785-e236f0154f14	Prior malignancy	Notification	2010-12-06T00:00:00	Approved	[intgen.org]: Subject has Hx of prior malignancy / Subject was positive for neo-adjuvant therapy
+88e0e018-21d9-5b57-9b01-07301d108199	11799	case	d62d39f9-c896-4758-a785-e236f0154f14	Neoadjuvant therapy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy  R kidney and prostate, no systemic therapy or radiation. Neo-adjuvant sutent given for TCGA tumor.

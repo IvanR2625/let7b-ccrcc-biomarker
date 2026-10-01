@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a85ab44a-8153-52ca-b32b-845e11862b02	12128	case	9f8aa332-e625-46f7-b77b-1fcb3ca99ee2	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy epitheliod cancer R pleura treated with Alimta.
+ef063421-8bfb-5f3b-84a0-47d374ca934a	12129	case	9f8aa332-e625-46f7-b77b-1fcb3ca99ee2	Prior malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy epitheliod cancer R pleura treated with Alimta.

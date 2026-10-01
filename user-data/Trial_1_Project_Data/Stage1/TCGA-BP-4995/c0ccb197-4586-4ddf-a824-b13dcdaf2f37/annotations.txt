@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+020d5627-5056-583f-8c38-d659ad7198d2	1089	case	9245a557-01ea-4446-b9e9-313f6ab18834	Prior malignancy	Notification	2010-12-19T00:00:00	Approved	[intgen.org]: Prior Malignancy
+b2c7635c-46ff-5afd-8a39-ce4352326f96	12049	case	9245a557-01ea-4446-b9e9-313f6ab18834	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  basil cell carcinoma  of the neck with unknown chemotherapy  per e-mail.

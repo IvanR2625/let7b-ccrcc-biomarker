@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5ce879cb-fe9c-5cb9-9b2f-54779d6ad6c4	4967	case	73cb1350-7590-4f79-bb86-3f395466652e	Neoadjuvant therapy	Notification	2012-01-24T00:00:00	Approved	[intgen.org]: Patient received palliative neo-adjuvant radiation to the field where tumor was located.

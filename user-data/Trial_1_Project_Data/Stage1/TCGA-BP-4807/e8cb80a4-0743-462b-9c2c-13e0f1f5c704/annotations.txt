@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+015aa18d-8ba8-5dd2-8707-9264aabf154f	11810	case	33cf0893-0411-4758-aa90-602bfedf0850	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy thyroid cancer. No systemic chemotherapy or radiation.

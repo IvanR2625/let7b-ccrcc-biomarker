@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+109867a2-b737-5749-9556-7769a8647bdc	11848	case	f6d28a1d-6691-4ac1-8afb-ab0e7dcef867	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy pancreas cancer. Prior malignancy bilateral kidney cancer x2. No systemic chemotherapy or radiation for any malignancies.

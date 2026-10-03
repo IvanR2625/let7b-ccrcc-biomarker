@@ -2,7 +2,7 @@
 
 **Exploring the prognostic potential of let-7 microRNA in clear cell renal cell carcinoma (ccRCC)**
 
-Code, analysis, and supplementary material for the paper *"Exploring the Prognostic Potential of Let-7 MicroRNA in Clear Cell Renal Cancer"* (Raizada S., Raizada I., Cai L.), submitted to the *Journal of Emerging Investigators* (manuscript JEI-26-058).
+Code, analysis, and supplementary material for the paper *"Exploring the Prognostic Potential of Let-7 MicroRNA in Clear Cell Renal Cancer"* (Raizada I., Raizada S., Cai L.), submitted to the *Journal of Emerging Investigators* (manuscript JEI-26-058).
 
 > Paper: _link / DOI to be added once published_
 

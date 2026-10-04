@@ -1,0 +1,5 @@
+Classifier,Accuracy,Precision (Cancer),Recall (Cancer),ROC-AUC
+SVM-RBF,1.0,1.0,1.0,1.0
+LogisticRegression,1.0,1.0,1.0,1.0
+RandomForest,0.909,1.0,0.889,1.0
+SVM-let7b-only (baseline),0.818,1.0,0.778,1.0

@@ -45,6 +45,7 @@ from sklearn.metrics import (
 from sklearn.model_selection import StratifiedKFold, cross_val_score, train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
+from sklearn.calibration import CalibratedClassifierCV
 from sklearn.svm import SVC
 
 DATA_FILE = Path("data/processed/let7_rpm.csv")
@@ -109,7 +110,7 @@ def load_wide() -> tuple[pd.DataFrame, np.ndarray]:
 def make_svm():
     return Pipeline([
         ("scaler", StandardScaler()),
-        ("clf", SVC(kernel="rbf", probability=True, random_state=RANDOM_STATE, C=1.0)),
+        ("clf", CalibratedClassifierCV(SVC(kernel="rbf", random_state=RANDOM_STATE, C=1.0), ensemble=False)),
     ])
 
 

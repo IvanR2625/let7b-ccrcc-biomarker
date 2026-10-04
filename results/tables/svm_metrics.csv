@@ -1,0 +1,5 @@
+metric,value
+Accuracy,0.909
+Precision (Cancer),1.0
+Recall (Cancer),0.889
+ROC-AUC,1.0

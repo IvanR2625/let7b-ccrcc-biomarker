@@ -45,6 +45,7 @@ from sklearn.metrics import (
 from sklearn.model_selection import StratifiedKFold, cross_validate, train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
+from sklearn.calibration import CalibratedClassifierCV
 from sklearn.svm import SVC
 
 DATA_FILE = Path("data/processed/let7_rpm.csv")
@@ -73,7 +74,7 @@ def build_pipeline() -> Pipeline:
     return Pipeline(
         [
             ("scaler", StandardScaler()),
-            ("svc", SVC(kernel="rbf", probability=True, random_state=RANDOM_STATE)),
+            ("svc", CalibratedClassifierCV(SVC(kernel="rbf", random_state=RANDOM_STATE), ensemble=False)),
         ]
     )
 
